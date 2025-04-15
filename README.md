@@ -70,7 +70,8 @@ plt.show()
 
 # GRAPH 
 
-![graph 2](https://github.com/user-attachments/assets/3cc22b5e-7e5c-4070-8cc9-ca42f4c55b7f)
+![graph](https://github.com/user-attachments/assets/5a3ad513-18a2-4eeb-a136-532eb5144a2b)
+
 
 
 # RESULT
